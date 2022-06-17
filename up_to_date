@@ -1,0 +1,4 @@
+
+t@f52cdaf0ac97:/alx-pre_course# git whatchanged origin/main -n 1
+and
+ root@f52cdaf0ac97:/alx-pre_course# git pull origin main
